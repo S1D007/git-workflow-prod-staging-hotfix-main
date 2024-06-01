@@ -9,22 +9,6 @@
 This is just a normal updates
 
 # My Name Lol
-```js
-// this is my actualy real data, it just contain my First Name and Last Name
-const myData = {
-	firstName: Siddhant,
-	lastName: Singh
-}
+Siddhant Singh
 
-/**
-* This is just bakchodi, i just want to use Bind method here.. nothing serious
-*/
-const methods = {
-	sayMyName: function(){
-		console.log(`Hey My name is ${this.firstName} ${this.lastName}`)
-	}
-}
-// create a copy of that method and then will call to yk say my name lol
-const okNowIWillSayMyName = methods.sayMyName.bind(myData)
-okNowIWillSayMyName()
-```
+hotfix
