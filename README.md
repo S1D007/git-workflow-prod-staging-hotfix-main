@@ -4,3 +4,6 @@
 - main (main branch where we are going to merge all our features)
 	- features
 - qa (perform tests before merging into staging)
+
+# Updates
+This is just a normal updates
